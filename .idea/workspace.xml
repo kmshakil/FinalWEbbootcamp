@@ -1,11 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4803c9ef-9da2-4f37-bb30-42489a8b44ec" name="Default Changelist" comment="" />
+    <list default="true" id="4803c9ef-9da2-4f37-bb30-42489a8b44ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cigna/cigna.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cigna/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cigna/src/main/java/cignahomepage/Cignahomepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cigna/src/test/java/cignatestpage/Cignatestpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cigna/src/test/resources/CignaRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citybank/citybank.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citybank/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citybank/src/main/java/citybankhomepage/Citybankhomepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citybank/src/test/java/citybanktestpage/Citybanktestpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/citybank/src/test/resourses/CitybankRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnn/cnn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnn/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnn/src/main/java/cnnhomepage/CNNhomepage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnn/src/test/java/cnntestpage/CNNtestpage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cnn/src/test/resources/CNNRunner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facebook/facebook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facebook/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facebook/src/main/java/facebookpage/FacebookHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facebook/src/test/java/facebooktest/Facebooktest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facebook/src/test/resources/FacebookRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/homepage/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/amazonhomepage/AmazonHomepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/testpage/Testpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/amazontestpage/AmazonTestpage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/Homepage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/testpage/Testpage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/classes/driver/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/driver/chromedriver" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/TEST-reporting.TestLogger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/Command line test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/reporting.TestLogger.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/reporting.TestLogger/Command line test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/reporting.TestLogger/Command line test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/testng.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Generic/target/" />
     <ignored path="$PROJECT_DIR$/Amazon/target/" />
+    <ignored path="$PROJECT_DIR$/Facebook/target/" />
+    <ignored path="$PROJECT_DIR$/cnn/target/" />
+    <ignored path="$PROJECT_DIR$/cigna/target/" />
+    <ignored path="$PROJECT_DIR$/cnn1/target/" />
+    <ignored path="$PROJECT_DIR$/citybank/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,27 +97,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/homepage/Homepage.java">
+        <entry file="file://$PROJECT_DIR$/facebook/src/test/resources/FacebookRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="220">
-              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testpage/Testpage.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#578#579#0" expanded="true" />
-                <element signature="e#609#610#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="225">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/citybank/src/test/resourses/CitybankRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cnn/src/test/resources/CNNRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cigna/src/test/resources/CignaRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -53,23 +151,57 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Amazon/src</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/Generic/src/test/java/reporting/ExtentManager.java" />
         <option value="$PROJECT_DIR$/Generic/src/test/java/utility/ExcelReader.java" />
-        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/base/databases/User.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/reporting/TestLogger.java" />
         <option value="$PROJECT_DIR$/Generic/src/main/java/utility/ExcelReader.java" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/Amazon/report-config.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" />
+        <option value="$PROJECT_DIR$/Amazon/pom.xml" />
         <option value="$PROJECT_DIR$/Amazon/src/main/java/homepage/Homepage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/main/java/homepage/Homepage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml.html" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/java/homepage/Homepage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/main/homepageTest/Homepage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/java/homepageTest/HomepageTest.java" />
         <option value="$PROJECT_DIR$/Amazon/src/test/java/testpage/Testpage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/amazonhomepageTest/Homepage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/amazonhomepageTest/AmazonHomepage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/main/java/fcebookhomepageTest/AmazonHomepage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/main/fcebookhomepageTest/AmazonHomepage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/main/fcebookhomepageTest/FacebookHomepage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/main/fcebookhomepage/FacebookHomepage.java" />
+        <option value="$PROJECT_DIR$/Amazon/src/test/java/amazontestpage/AmazonTestpage.java" />
+        <option value="$PROJECT_DIR$/Facebook/src/test/java/fcebookhomepageTest/FacebookHomepageTest.java" />
+        <option value="$PROJECT_DIR$/Facebook/pom.xml" />
+        <option value="$PROJECT_DIR$/Facebook/src/main/java/facebookhomepage/Homepage.java" />
+        <option value="$PROJECT_DIR$/facebook/pom.xml" />
+        <option value="$PROJECT_DIR$/facebook/src/main/java/facebookpage/HomePage.java" />
+        <option value="$PROJECT_DIR$/facebook/src/test/resources/FacebookRunner.xml" />
+        <option value="$PROJECT_DIR$/facebook/src/test/java/facebooktest/Facebooktest.java" />
+        <option value="$PROJECT_DIR$/facebook/src/main/java/facebookpage/FacebookHomePage.java" />
+        <option value="$PROJECT_DIR$/cnn/pom.xml" />
+        <option value="$PROJECT_DIR$/cigna/pom.xml" />
+        <option value="$PROJECT_DIR$/citybank/src/test/resourses/CitybankRunner.xml" />
+        <option value="$PROJECT_DIR$/cnn/src/test/resources/CNNRunner.xml" />
+        <option value="$PROJECT_DIR$/cigna/src/test/resources/CignaRunner.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -102,18 +234,17 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="28" />
-    <option name="width" value="845" />
-    <option name="height" value="710" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1257" />
+    <option name="height" value="709" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,147 +255,105 @@
             <path>
               <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="Extent-Report" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="homepage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
+              <item name="cigna" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Amazon" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="testpage" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="Generic" type="462c0819:PsiDirectoryNode" />
+              <item name="citybank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
+              <item name="citybank" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
+              <item name="citybank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="driver" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
+              <item name="citybank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
               <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
+              <item name="citybank" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
+              <item name="cnn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
+              <item name="cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
+              <item name="cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Newbootcamp2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Newbootcamp2" type="462c0819:PsiDirectoryNode" />
+              <item name="cnn" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/Generic/src/test/java/base" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Generic/driver1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Facebook/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -274,6 +363,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Facebook/src/test" />
       <recent name="$PROJECT_DIR$/Amazon/src/test" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -285,11 +375,11 @@
       <recent name="base" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Facebook/src" />
       <recent name="$PROJECT_DIR$/Generic/driver1" />
       <recent name="$PROJECT_DIR$/Generic/src/main/resources" />
       <recent name="$PROJECT_DIR$/Generic/src/main/java" />
       <recent name="$PROJECT_DIR$/Generic/src/main/java/base" />
-      <recent name="$PROJECT_DIR$/Amazon" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -304,38 +394,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG./Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/Amazon/src/test/resources/AmazonRunner.xml">
-    <configuration name="Testpage" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
+  <component name="RunManager" selected="TestNG./Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/facebook/src/test/resources/FacebookRunner.xml">
+    <configuration name="FacebookHomepageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testpage.*" />
+          <option name="PATTERN" value="fcebookhomepageTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testpage" />
-      <option name="MAIN_CLASS_NAME" value="testpage.Testpage" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="PACKAGE_NAME" value="fcebookhomepageTest" />
+      <option name="MAIN_CLASS_NAME" value="fcebookhomepageTest.FacebookHomepageTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Testpage.account" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="Amazon" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testpage.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testpage" />
-      <option name="MAIN_CLASS_NAME" value="testpage.Testpage" />
-      <option name="METHOD_NAME" value="account" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
+    <configuration name="fcebookhomepageTest in Facebook" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <option name="TEST_OBJECT" value="directory" />
+      <dir value="$PROJECT_DIR$/Facebook/src/test/java/fcebookhomepageTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -350,11 +428,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="/Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/Facebook/src/test/resources/FacebookRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Facebook" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/facebook/src/test/resources/FacebookRunner.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="facebook" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/facebook/src/test/resources/FacebookRunner.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG./Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/facebook/src/test/resources/FacebookRunner.xml" />
+        <item itemvalue="JUnit.fcebookhomepageTest in Facebook" />
+        <item itemvalue="JUnit.FacebookHomepageTest" />
+        <item itemvalue="TestNG./Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/Facebook/src/test/resources/FacebookRunner.xml" />
         <item itemvalue="TestNG./Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/Amazon/src/test/resources/AmazonRunner.xml" />
-        <item itemvalue="TestNG.Testpage.account" />
-        <item itemvalue="TestNG.Testpage" />
       </list>
     </recent_temporary>
   </component>
@@ -372,15 +472,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Testpage - 2019.06.18 at 21h 55m 16s.xml">
-      <configuration name="Testpage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="Testpage - 2019.06.18 at 21h 57m 14s.xml">
-      <configuration name="Testpage" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_kayesmahmudshakil_eclipse-workspace_Newbootcamp2_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 21h 59m 46s.xml">
-      <configuration name="/Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_kayesmahmudshakil_eclipse-workspace_Newbootcamp2_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 22h 02m 17s.xml">
       <configuration name="/Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -402,12 +493,21 @@
     <history-entry file="_Users_kayesmahmudshakil_eclipse-workspace_Newbootcamp2_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.18 at 22h 35m 35s.xml">
       <configuration name="/Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="_Users_kayesmahmudshakil_eclipse-workspace_Newbootcamp2_Amazon_src_test_resources_AmazonRunner_xml - 2019.06.19 at 00h 33m 17s.xml">
+      <configuration name="/Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/Amazon/src/test/resources/AmazonRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kayesmahmudshakil_eclipse-workspace_Newbootcamp2_facebook_src_test_resources_FacebookRunner_xml - 2019.06.19 at 18h 54m 12s.xml">
+      <configuration name="/Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_kayesmahmudshakil_eclipse-workspace_Newbootcamp2_facebook_src_test_resources_FacebookRunner_xml - 2019.06.19 at 18h 55m 54s.xml">
+      <configuration name="/Users/kayesmahmudshakil/eclipse-workspace/Newbootcamp2/facebook/src/test/resources/FacebookRunner.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1280" height="710" extended-state="6" />
+    <frame x="0" y="23" width="1257" height="709" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18659128" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25020576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -415,29 +515,27 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31428573" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32996634" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3131313" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32659933" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32605043" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32491583" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" weight="0.32972136" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.32867134" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Generic/src/test/java/databases/ConnectToMongoDB.java" />
-    <entry file="file://$PROJECT_DIR$/Generic/src/test/java/databases/User.java" />
     <entry file="file://$PROJECT_DIR$/Generic/src/test/java/databases/ConnectToSqlDB.java" />
     <entry file="file://$PROJECT_DIR$/Generic/src/test/java/reporting/TestLogger.java" />
     <entry file="file://$PROJECT_DIR$/Generic/src/test/java/reporting/ExtentTestManager.java" />
@@ -476,30 +574,7 @@
     <entry file="file://$PROJECT_DIR$/Generic/src/main/java/reporting/ExtentManager.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/driver1/chromedriver">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-218">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2104">
-          <caret line="116" column="7" lean-forward="true" selection-start-line="116" selection-start-column="7" selection-end-line="116" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/driver1/chromedriver" />
     <entry file="file://$PROJECT_DIR$/Amazon/report-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -514,39 +589,208 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/resources/FacebookRunner.xml.html" />
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/homepage/Homepage.java" />
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="64" column="16" selection-start-line="64" selection-start-column="16" selection-end-line="64" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/amazonhomepage/AmazonHomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/fcebookhomepage/FacebookHomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/fcebookhomepageTest/FacebookHomepageTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="38" lean-forward="true" selection-start-line="9" selection-start-column="38" selection-end-line="9" selection-end-column="38" />
+          <caret line="9" column="26" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/test/java/facebooktestpage/Facebooktestpage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Facebook/src/main/java/facebookhomepage/Homepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/amazontestpage/AmazonTestpage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="11" column="42" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/homepage/Homepage.java">
+    <entry file="file://$PROJECT_DIR$/Amazon/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="220">
-          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="180">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook/src/test/java/facebooktest/Facebooktest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="37" selection-start-line="3" selection-start-column="37" selection-end-line="3" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/java/cnntestpage/CNNtestpage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/main/java/cnnhomepage/CNNhomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook/src/main/java/facebookpage/FacebookHomePage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/testpage/Testpage.java">
+    <entry file="file://$PROJECT_DIR$/cigna/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-            <element signature="e#609#610#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="315">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cigna/src/main/java/cignahomepage/Cignahomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cigna/src/test/java/cignatestpage/Cignatestpage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn1/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/citybank/src/main/java/citybankhomepage/Citybankhomepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/citybank/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/citybank/src/test/java/citybanktestpage/Citybanktestpage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cigna/src/test/resources/CignaRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cnn/src/test/resources/CNNRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/citybank/src/test/resourses/CitybankRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/facebook/src/test/resources/FacebookRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
         </state>
       </provider>
     </entry>

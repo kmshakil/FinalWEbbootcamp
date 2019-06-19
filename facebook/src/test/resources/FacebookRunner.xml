@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="facebook Automation Script " parallel="false">
+
+    <parameter name="cloud" value="false"/>
+    <parameter name="envName" value="Saucelabs"/>
+
+    <parameter name="browserVersion" value="74"/>
+    <parameter name="platform" value="mac"/>
+    <parameter name="url" value="https://www.facebook.com/"/>
+    <parameter name="browser" value="Chrome"/>
+
+
+    <test name="amazon Test">
+        <classes>
+            <class name="facebooktest.Facebooktest"/>
+        </classes>
+    </test>
+</suite>

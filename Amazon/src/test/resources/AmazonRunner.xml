@@ -14,7 +14,7 @@
 
     <test name="amazon Test">
         <classes>
-            <class name="testpage.Testpage"/>
+            <class name="amazontestpage.AmazonTestpage"/>
         </classes>
     </test>
 </suite>
