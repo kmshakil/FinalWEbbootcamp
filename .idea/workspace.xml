@@ -2,79 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4803c9ef-9da2-4f37-bb30-42489a8b44ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cigna/cigna.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cigna/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cigna/src/main/java/cignahomepage/Cignahomepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cigna/src/test/java/cignatestpage/Cignatestpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cigna/src/test/resources/CignaRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citybank/citybank.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citybank/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citybank/src/main/java/citybankhomepage/Citybankhomepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citybank/src/test/java/citybanktestpage/Citybanktestpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/citybank/src/test/resourses/CitybankRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnn/cnn.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnn/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnn/src/main/java/cnnhomepage/CNNhomepage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnn/src/test/java/cnntestpage/CNNtestpage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cnn/src/test/resources/CNNRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facebook/facebook.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facebook/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facebook/src/main/java/facebookpage/FacebookHomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facebook/src/test/java/facebooktest/Facebooktest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/facebook/src/test/resources/FacebookRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/main/java/homepage/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/main/java/amazonhomepage/AmazonHomepage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/java/testpage/Testpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/java/amazontestpage/AmazonTestpage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/Homepage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Amazon/target/test-classes/testpage/Testpage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/Generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/classes/driver/chromedriver" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/classes/driver/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/TEST-reporting.TestLogger.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/bullet_point.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/collapseall.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/emailable-report.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/failed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/Command line test.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/classes.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/groups.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/methods-alphabetical.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/methods-not-run.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/methods.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/reporter-output.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/testng.xml.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/old/reporting.TestLogger/toc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/passed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/reporting.TestLogger.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/reporting.TestLogger/Command line test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/reporting.TestLogger/Command line test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/skipped.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/testng-reports.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/testng-reports.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/testng-results.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Generic/target/surefire-reports/testng.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -505,7 +433,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1257" height="709" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25020576" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -521,7 +448,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32659933" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32659933" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32491583" />
